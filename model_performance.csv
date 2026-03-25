@@ -1,0 +1,2 @@
+model,cv_mean_rmse,cv_std_rmse,test_rmse,test_r2,n_features,n_training_samples
+LightGBM,1.6896,0.0874,1.6757,0.2357,38,1093
